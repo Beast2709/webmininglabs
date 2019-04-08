@@ -1,0 +1,7 @@
+Crawler
+Inverted Index
+PageRanking
+NaiveBayes
+K Means
+Heirarchial
+Sessionization
